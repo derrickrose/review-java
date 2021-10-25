@@ -74,6 +74,7 @@ WHAT NEXT ?
 * Java exception handling
 * Design patterns
 * Java 8 Date 
+* https://o7planning.org/11765/spring-boot-file-download
 * Java 8 jdbc date ....
 * Java console app : https://www.youtube.com/watch?v=QUZx3LTH7nU
 * To have a look at a basic overview of java data structures : https://www.youtube.com/watch?v=HHoMCp20ONI
