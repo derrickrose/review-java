@@ -2,16 +2,16 @@ package org.review.java8_features;
 
 import org.junit.Ignore;
 import org.junit.Test;
-import org.review.java8_features.function.Car;
-import org.review.java8_features.function.UseOfFunction;
-import org.review.java8_features.interface_revolution.default_method.Alien;
-import org.review.java8_features.interface_revolution.functional_interface.WorkFromHome;
-import org.review.java8_features.interface_revolution.static_method.SuperReproduction;
-import org.review.java8_features.lambda.UseOfLambda;
-import org.review.java8_features.reference_to_a_method.UseReferenceToAMethod;
-import org.review.java8_features.stream.Moto;
-import org.review.java8_features.stream.TestStreamWithGenerate;
-import org.review.java8_features.stream.UseOfStream;
+import java_8_features.function.Car;
+import java_8_features.function.UseOfFunction;
+import java_8_features.interface_revolution.default_method.Alien;
+import java_8_features.interface_revolution.functional_interface.WorkFromHome;
+import java_8_features.interface_revolution.static_method.SuperReproduction;
+import java_8_features.lambda.UseOfLambda;
+import java_8_features.reference_to_a_method.UseReferenceToAMethod;
+import java_8_features.stream.Moto;
+import java_8_features.stream.TestStreamWithGenerate;
+import java_8_features.stream.UseOfStream;
 
 import java.io.IOException;
 import java.nio.file.Files;
