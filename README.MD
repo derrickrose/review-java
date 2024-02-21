@@ -1,6 +1,6 @@
 review_java
 ------------------------------------------------------------------------------------------------------
-review_java is my simple java app to test everything with java, my way to prepare to get hired in fang companies,
+review_java is my simple java app to test everything with java
 examples :
 * design patterns
 * data structures
