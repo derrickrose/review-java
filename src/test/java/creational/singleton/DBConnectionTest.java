@@ -1,6 +1,6 @@
 package creational.singleton;
 
-import design_pattern.creational.singleton.DBConnection;
+import old.creational.singleton.DBConnection;
 import org.junit.Test;
 
 public class DBConnectionTest {

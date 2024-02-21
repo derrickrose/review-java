@@ -1,6 +1,6 @@
 package algo.divide_and_conquer;
 
-import algo.divide_and_conquer.FastExponentiation;
+import old.algo.divide_and_conquer.FastExponentiation;
 import org.junit.Assert;
 import org.junit.Test;
 

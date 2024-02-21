@@ -1,6 +1,6 @@
 package algo.sorting;
 
-import algo.sorting.BubbleSort;
+import old.algo.sorting.BubbleSort;
 import org.junit.Test;
 
 public class BubbleSortTest {

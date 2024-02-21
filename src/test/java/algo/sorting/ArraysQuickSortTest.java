@@ -1,6 +1,6 @@
 package algo.sorting;
 
-import algo.sorting.QuickSort;
+import old.algo.sorting.QuickSort;
 import org.junit.Test;
 
 public class ArraysQuickSortTest {

@@ -1,6 +1,6 @@
 package algo.sorting;
 
-import algo.sorting.InsertionSort;
+import old.algo.sorting.InsertionSort;
 import org.junit.Test;
 
 public class ArraysInsertionSortTest {

@@ -1,6 +1,6 @@
 package creational.abstract_factory;
 
-import design_pattern.creational.abstract_factory.IRelationalDB;
+import old.creational.abstract_factory.IRelationalDB;
 import creational.abstract_factory.InfrastructureFactory;
 import org.junit.Test;
 

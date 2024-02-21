@@ -1,6 +1,6 @@
 package algo.sorting;
 
-import algo.sorting.SelectionSort;
+import old.algo.sorting.SelectionSort;
 import org.junit.Test;
 
 public class ArraysSelectionSortTest {

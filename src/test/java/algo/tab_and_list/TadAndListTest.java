@@ -1,7 +1,7 @@
 package algo.tab_and_list;
 
 import org.junit.Test;
-import data_structure.tab_and_list.TabAndLinkedList;
+import old.data_structure.tab_and_list.TabAndLinkedList;
 
 import java.util.LinkedList;
 

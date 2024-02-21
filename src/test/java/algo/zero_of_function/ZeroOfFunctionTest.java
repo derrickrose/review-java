@@ -4,7 +4,7 @@ import org.junit.Test;
 
 import java.util.function.Function;
 
-import static algo.zero_of_function.ZeroOfFunction.doSearchRange;
+import static old.algo.zero_of_function.ZeroOfFunction.doSearchRange;
 
 public class ZeroOfFunctionTest {
 

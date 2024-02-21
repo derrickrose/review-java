@@ -1,7 +1,7 @@
 package linked_list;
 
 import org.junit.Test;
-import data_structure.linkedlist.DataLinkedList;
+import old.data_structure.linkedlist.DataLinkedList;
 
 import java.util.LinkedList;
 import java.util.List;

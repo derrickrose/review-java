@@ -1,8 +1,8 @@
 package creational.factory;
 
-import design_pattern.creational.factory.Country;
-import design_pattern.creational.factory.Location;
-import design_pattern.creational.factory.LocationFactory;
+import old.creational.factory.Country;
+import old.creational.factory.Location;
+import old.creational.factory.LocationFactory;
 import org.junit.Test;
 
 public class LocationFactoryTest {

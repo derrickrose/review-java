@@ -1,7 +1,7 @@
 package algo.tree;
 
 import org.junit.Test;
-import algo.trees.TreeWithList;
+import old.algo.trees.TreeWithList;
 
 
 public class TreeWithListTest {

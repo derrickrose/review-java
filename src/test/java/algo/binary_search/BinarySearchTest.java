@@ -1,6 +1,6 @@
 package algo.binary_search;
 
-import algo.binary_search.BinarySearch;
+import old.algo.binary_search.BinarySearch;
 import org.junit.Test;
 
 import java.util.Arrays;
