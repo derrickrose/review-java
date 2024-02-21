@@ -3,8 +3,8 @@ review_java
 review_java is my simple java app to test everything with java, my way to prepare to get hired in fang companies,
 examples :
 * design patterns
-* algorithms
 * data structures
+* algorithms
 * libraries
 
 creation design patterns 
