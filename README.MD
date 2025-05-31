@@ -63,23 +63,21 @@ BEST PRACTICES
 WHAT NEXT ? 
 ------------------------------------------------------------------------------------------------------
 * jenkins pipe https://www.lambdatest.com/blog/jenkins-pipeline-tutorial/
-* https://www.youtube.com/watch?v=Ca0Bg-UB1ZA
-* https://dzone.com/articles/top-10-algorithms-for-the-coding-interview-for-sof
-* https://www.youtube.com/watch?v=V2sxo-opMtI
-* https://www.oracle.com/webfolder/technetwork/tutorials/obe/java/gc01/index.html
-* big company preparation https://www.youtube.com/playlist?list=PLYODYTBmoGbXoohcXlWA7Nv-C9J099eHt
+* charting and report https://www.youtube.com/watch?v=Ca0Bg-UB1ZA
+* top 10 algorithms https://dzone.com/articles/top-10-algorithms-for-the-coding-interview-for-sof
+* java collections interview questions https://www.youtube.com/watch?v=V2sxo-opMtI
+* garbage collector https://www.oracle.com/webfolder/technetwork/tutorials/obe/java/gc01/index.html
+* big company preparation DSA https://www.youtube.com/playlist?list=PLYODYTBmoGbXoohcXlWA7Nv-C9J099eHt
 * Java collections complexity https://www.codeflow.site/fr/article/java-collections-complexity
 * Predicate java 8 https://mkyong.com/java8/java-8-predicate-examples/
-* Java 8 NIO
+* Java NIO
 * Java exception handling
 * Design patterns
 * Java 8 Date 
-* https://o7planning.org/11765/spring-boot-file-download
-* Java 8 jdbc date ....
-* Java console app : https://www.youtube.com/watch?v=QUZx3LTH7nU
+* spring boot file download example https://o7planning.org/11765/spring-boot-file-download
+* Java jdbc date ....
+* Java console app for testing simple syntax : https://www.youtube.com/watch?v=QUZx3LTH7nU
 * To have a look at a basic overview of java data structures : https://www.youtube.com/watch?v=HHoMCp20ONI
 * Merge sort algorithms : https://www.youtube.com/watch?v=J4VgLvoSGmE
-* Preparing java certifications : https://education.oracle.com/product/pexam_1Z0-808
 * checkstyle https://google.github.io/styleguide/javaguide.html#s2.1-file-name
-* may check also https://rhamedy.medium.com/a-short-summary-of-java-coding-best-practices-31283d0167d3
-* Links of where to continue : https://mail.google.com/mail/mu/mp/267/#cv/priority/%5Esmartlabel_promo/175adcab0513715c
+* may check also best practice https://rhamedy.medium.com/a-short-summary-of-java-coding-best-practices-31283d0167d3
